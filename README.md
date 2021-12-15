@@ -6,4 +6,4 @@
 
 (на данний момент бот не працює так як запускається локально)
 
-![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png)
+![alt tag](https://icon2.cleanpng.com/20180625/khb/kisspng-telegram-logo-telegram-icon-5b3162e9cb1385.0766563815299632418318.jpg)
