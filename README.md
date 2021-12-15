@@ -7,4 +7,4 @@
 (на данний момент бот не працює так як запускається локально)
 
 ![alt tag](https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png) 
-![alt tag(https://cdn.iconscout.com/icon/free/png-256/python-3628411-3032246.png)
+![alt tag](https://cdn.iconscout.com/icon/free/png-256/python-3628411-3032246.png)
