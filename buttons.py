@@ -89,9 +89,3 @@ answer10_D = KeyboardButton('Г) санітарний кордон')
 
 tenth = ReplyKeyboardMarkup(resize_keyboard=True, one_time_keyboard=True)
 tenth.add(answer10_A, answer10_B, answer10_C, answer10_D)
-
-
-# Инлайн кнопка
- 
-test_btn = InlineKeyboardButton('Почати Тест', callback_data='/test')
-test_kb = InlineKeyboardMarkup().add(test_btn)
