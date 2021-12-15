@@ -7,4 +7,4 @@
 (на данний момент бот не працює так як запускається локально)
 
 ![alt tag](https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png) 
-![alt tag](https://p.kindpng.com/picc/s/159-1595848_python-logo-png-transparent-background-python-logo-png.png)
+![alt tag](https://w7.pngwing.com/pngs/792/780/png-transparent-python-computer-icons-tutorial-computer-programming-social-icons-miscellaneous-angle-text-thumbnail.png)
