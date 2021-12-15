@@ -1,12 +1,10 @@
 from aiogram import Bot, types
 from aiogram.dispatcher import Dispatcher
-from aiogram.dispatcher.filters import state
 from aiogram.dispatcher.storage import FSMContext
 from aiogram.utils import executor
 from aiogram.dispatcher.filters.state import StatesGroup, State
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 import aiogram.utils.markdown as md
-from aiogram.utils.mixins import T
 
 from config import token
 
