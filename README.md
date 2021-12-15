@@ -6,5 +6,5 @@
 
 (на данний момент бот не працює так як запускається локально)
 
-![alt tag](https://www.flaticon.com/free-icon/telegram_906377#) 
+![alt tag](https://cdn-icons-png.flaticon.com/512/906/906377.png) 
 ![alt tag](https://icon2.cleanpng.com/20180625/khb/kisspng-telegram-logo-telegram-icon-5b3162e9cb1385.0766563815299632418318.jpg)
