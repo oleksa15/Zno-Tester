@@ -1,4 +1,4 @@
-# Zno-Tester
+# Zno Tester в боті телеграм 
 
 @zno_tester_bot - назва бота
 
